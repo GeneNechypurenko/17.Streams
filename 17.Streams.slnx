@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.TextFiles/01.TextFiles.vcxproj" Id="5f5c0c12-f49f-4d22-a7dc-480a39af6eac" />
+  <Project Path="02.BinaryFile/02.BinaryFile.vcxproj" Id="a06eaebd-ff10-44a0-87cd-368e964c3ac3" />
+  <Project Path="HomeWork37/HomeWork37.vcxproj" Id="d683ab5d-5ada-43ba-a62b-0e06cb5feffb" />
+</Solution>
